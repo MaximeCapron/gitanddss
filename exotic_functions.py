@@ -1,2 +1,2 @@
-def exotic(x,n):
-  return x//n
+def square(x):
+    return x**2
